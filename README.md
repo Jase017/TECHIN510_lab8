@@ -1,1 +1,3 @@
-# TECHIN510_lab8
+# HTML and CSS
+
+Credits: https://developer.mozilla.org/
